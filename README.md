@@ -1,7 +1,7 @@
 # SimpleSampleApplicationFromGrok3
 ## これは何か？  
 Grok3にプロンプトから生成してもらった簡単なゲームっぽいアプリケーションのコードです。  
-関連リポジトリ： [SimpleSampleApplicationFromLLMs](https://github.com/CakeNNN/SimpleSampleApplicationFromLLMs)   [
+関連リポジトリ： [SimpleSampleApplicationFromLLMs](https://github.com/CakeNNN/SimpleSampleApplicationFromLLMs)   
 [元ツイート](https://x.com/CakeTwt/status/1895846186042736864)  
 
 ## 実行するには？  
