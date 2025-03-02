@@ -1,7 +1,7 @@
 # SimpleSampleApplicationFromGrok3
 ## これは何か？  
 Grok3にプロンプトから生成してもらった簡単なゲームっぽいアプリケーションのコードです。  
-関連リポジトリ： SimpleSampleApplicationFromLLMs  
+関連リポジトリ： [SimpleSampleApplicationFromLLMs](https://github.com/CakeNNN/SimpleSampleApplicationFromLLMs)  
 
 ## 実行するには？  
 ①python(3.8で確認)の使える環境にてpygameをインストールします。 
