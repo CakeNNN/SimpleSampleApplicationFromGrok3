@@ -40,3 +40,11 @@ direction = self.player.rect.center - self.rect.center
 TypeError: unsupported operand type(s) for -: 'tuple' and 'tuple'
 </pre>
 
+### testgame00_02.py  
+以下のプロンプトによって仕様変更を行い生成されたコードです。  
+<pre>
+「敵」の仕様を次のように変更します。コードを修正してください。
+・「敵」は出現から一定時間はプレイヤー方向に移動
+・一定時間経過後はそのまま直進
+・画面外に出そうになったら消滅  
+</pre>
