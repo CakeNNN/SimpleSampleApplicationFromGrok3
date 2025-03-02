@@ -30,7 +30,7 @@ python testgame00_00.py
 ### testgame00_01.py  
 出力されたコードでは以下のエラーが発生しました。  
 <pre>
-direction = http://self.player.rect.center - http://self.rect.center
+direction = self.player.rect.center - self.rect.center
 TypeError: unsupported operand type(s) for -: 'tuple' and 'tuple'
 </pre>
 これを以下のプロンプトにて修正してもらったコードです。  
@@ -54,4 +54,6 @@ testgame00_02.pyでは敵が全く出現しなくなってしまいました。
 原因を確認したうえでその理由は告げずに修正をお願いし、提案されたコードです。  
 コードは修正箇所のみの提案となっており、このコード単体では動作しません。また、testgame00_02.pyにそのまま貼り付けると仕様変更が巻き戻ってしまうため必要な箇所のみの手動マージが必要となります。  
 
-### 
+### testgame00_03.py  
+前述の修正コードをマージして仕様通り動作するようになったコードです。
+
